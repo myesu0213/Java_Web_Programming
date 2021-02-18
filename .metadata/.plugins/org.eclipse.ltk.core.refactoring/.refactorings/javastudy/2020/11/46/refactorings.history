@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;f2&apos; in &apos;ch3.ArithOp1.main(...)&apos; to &apos;avg&apos;&#x0D;&#x0A;- Original project: &apos;javastudy&apos;&#x0D;&#x0A;- Original element: &apos;ch3.ArithOp1.main(String[]).f2&apos;&#x0D;&#x0A;- Renamed element: &apos;f2&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;f2&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ch3{ArithOp1.java[ArithOp1~main~\[QString;@f2!560!590!564!565!I!0!false" name="avg" references="true" stamp="1605235775304" version="1.0"/>
+</session>

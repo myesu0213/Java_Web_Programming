@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;num&apos; in &apos;backjoon.P2753.main(...)&apos; to &apos;year&apos;&#x0D;&#x0A;- Original project: &apos;javastudy&apos;&#x0D;&#x0A;- Original element: &apos;backjoon.P2753.main(String[]).num&apos;&#x0D;&#x0A;- Renamed element: &apos;num&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;num&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;backjoon{P2753.java[P2753~main~\[QString;@num!370!392!374!376!I!0!false" name="year" references="true" stamp="1605493859030" version="1.0"/>
+</session>
