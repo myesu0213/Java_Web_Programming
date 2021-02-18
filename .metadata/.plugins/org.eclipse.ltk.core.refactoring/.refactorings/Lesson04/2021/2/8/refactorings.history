@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;MemberUpdateServlet.java&apos; to &apos;web04/src/spms.servlets&apos;&#x0D;&#x0A;- Original project: &apos;Lesson04&apos;&#x0D;&#x0A;- Destination element: &apos;web04/src/spms.servlets&apos;&#x0D;&#x0A;- Original element: &apos;MemberUpdateServlet.java&apos;" description="Copy file" destination="=web04/src&lt;spms.servlets" element1="step07/src/spms/servlets/MemberUpdateServlet.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1613612315983" units="0" version="1.0"/>
-</session>
