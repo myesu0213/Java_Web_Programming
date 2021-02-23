@@ -14,4 +14,7 @@
 <fullyQualifiedTypeName name="jdk.internal.org.objectweb.asm.tree.ClassNode"/>
 <fullyQualifiedTypeName name="org.apache.catalina.mbeans.ClassNameMBean"/>
 <fullyQualifiedTypeName name="javax.servlet.Filter"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="spms.vo.Member"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 </qualifiedTypeNameHistroy>
