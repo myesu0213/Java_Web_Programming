@@ -21,6 +21,13 @@
 		<param-name>password</param-name>
 		<param-value>root12</param-value>
 	</context-param>
+
+	<!-- 서블릿 선언-->
+	<servlet>
+		<servlet-name>AppInitServlet</servlet-name>
+		<servlet-class>spms.servlets.AppInitServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
 	
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
